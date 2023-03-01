@@ -1,0 +1,73 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Vulfpeck - Disco Ulysses",
+  "_songSubName": "",
+  "_songAuthorName": "Vulfpeck",
+  "_levelAuthorName": "canolari30",
+  "_beatsPerMinute": 134,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 45,
+  "_songFilename": "Vulfpeck - Disco Ulysses (Instrumental).egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "OriginsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.5.1"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.8980392,
+              "g": 0.7098039,
+              "b": 0.6196079
+            },
+            "_colorRight": {
+              "r": 0.572549,
+              "g": 0.3294118,
+              "b": 0.2431373
+            },
+            "_envColorLeft": {
+              "r": 0.8980392,
+              "g": 0.7098039,
+              "b": 0.6196079
+            },
+            "_envColorRight": {
+              "r": 0.572549,
+              "g": 0.3294118,
+              "b": 0.2431373
+            },
+            "_obstacleColor": {
+              "r": 0.2352941,
+              "g": 0.2980392,
+              "b": 0.2980392
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
